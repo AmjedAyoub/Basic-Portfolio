@@ -11,3 +11,5 @@ This project is a professional portfolio site using basic HTML and CSS. The site
 ![image](./assets/images/portfolio.PNG)
 #### Contact page
 ![image](./assets/images/contact.PNG)
+## Link
+It is currently hosted on [Github Pages](https://amjedayoub.github.io/Basic-Portfolio).
